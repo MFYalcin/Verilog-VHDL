@@ -1,2 +1,2 @@
 # Verilog-VHDL
-The main focus here is writing UART and advancing on coding Verilog and Hardware Descriptive Language.
+The main focus here is writing layers of code on either Verilog or VHDL.
